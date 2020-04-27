@@ -1,0 +1,93 @@
+commit 8f1f6609258bdd246e087ccd68cfbd20f60eb2e7
+Merge: f4f6adb 631d64b
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 06:01:21 2020 -0500
+
+    Merge branch 'blackground'
+    Fondo negro cool en mi proyecto
+
+commit f4f6adb09de1ec8d69a9b304ed8d91a19c3ebe4e
+Merge: 8f1c145 2575780
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 05:58:47 2020 -0500
+
+    Merge branch 'fontjob'
+    Fuente de descripción de trabajo arreglado
+
+commit 8f1c1450d567d810600ca41d2d9716c8105b37c3
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 05:58:03 2020 -0500
+
+    Margen arreglado
+
+commit 631d64b2e23f3c23e2bc1d92acbfd30208828d97
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 05:56:44 2020 -0500
+
+    Cambio de fondo ejecutado
+
+commit 2575780891b5ebadccdf524a5a8ba6347e72e2ee
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 05:55:21 2020 -0500
+
+    Resuelto la fuente en tamaño
+
+commit 50934742098c61cd84d5554b4b581e35eeb8dcb6
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 05:44:53 2020 -0500
+
+    Cambio de avatar
+
+commit 8b11a68832fdd59eadecafafee422a3d7a6635b8
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 05:40:25 2020 -0500
+
+    Aumento de letra a 21px
+
+commit c21fa2a5f6d6f9517fb055614ec9f7e2b3e3eb37
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 04:31:22 2020 -0500
+
+    Cambio de background a grisesito
+
+commit 31fe3bd4a7da22ecb42fa465d82eaa132953e202
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 04:23:48 2020 -0500
+
+    Cambio de background a rosa mexicano
+
+commit 001ba43540078eba6a492b5ff2a6a74dbc33c5bb
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 02:37:38 2020 -0500
+
+    Salve mi portafolio
+
+commit c23dd23c7ba412a43dd1cd8dddfe6cdfa59bd282
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 02:35:43 2020 -0500
+
+    Agregue descripcion
+
+commit 0a07fdd74e1dc4412286c43a4c7ae27f9acc98e3
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 02:33:22 2020 -0500
+
+    Agregue redes sociales
+
+commit 425671b3daa9f98346f8bdf905ef5c2d1f505fe1
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 02:28:13 2020 -0500
+
+    Perfil web escrito
+
+commit 31c9b9abd5c132467c89ec6fd56548528a71fc75
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 02:25:32 2020 -0500
+
+    Subi foto de perfil y mi nombre
+
+commit 5efc8ca694dfc26f027c5bebaea233e045c740a6
+Author: Daniel Ciendua <daciendua@uniboyaca.edu.co>
+Date:   Mon Apr 27 02:11:45 2020 -0500
+
+    Estos son los archivos base de mi portafolio
